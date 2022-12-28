@@ -1,2 +1,2 @@
 # codeclause-intern
-Tasks completed as an intern at CodeClause
+Here are my tasks that i have completed as an intern at CodeClause
